@@ -1,4 +1,4 @@
-# 🧠 NeuroForge: Advanced Neural Network Framework
+
 
 > **The Future of Neural Computing**: A revolutionary Rust-based framework that unifies CPU/GPU acceleration with cutting-edge optimizations for next-generation AI development.
 
